@@ -1,4 +1,4 @@
-# CloudWatch Logs Cross-Account Export - Manual Setup (AWS Console)
+# CloudWatch Logs Cross-Account Export (AWS Console)
 
 This guide provides a complete manual setup using the AWS Console for CloudWatch logs cross-account export.
 
